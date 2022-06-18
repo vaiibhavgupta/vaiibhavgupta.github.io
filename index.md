@@ -1,5 +1,5 @@
 # Data Science Portfolio
 
-## Connect: [LinkedIn](https://www.linkedin.com/in/vaiibhavgupta/), [Email](mailto:vaiibhavgupta.1apr@gmail.com)
-## Collaborate: [GitHub](https://github.com/vaiibhavgupta/), [Kaggle](https://www.kaggle.com/vaiibhavgupta/), [Medium](https://medium.com/@vaiibhavgupta)
-## Looking for talented Full-Stack Data Scientist: [Resume]()
+## Connect: [LinkedIn](https://www.linkedin.com/in/vaiibhavgupta/){:target="\_blank"}, [Email](mailto:vaiibhavgupta.1apr@gmail.com){:target="\_blank"}
+## Collaborate: [GitHub](https://github.com/vaiibhavgupta/){:target="\_blank"}, [Kaggle](https://www.kaggle.com/vaiibhavgupta/){:target="\_blank"}, [Medium](https://medium.com/@vaiibhavgupta){:target="\_blank"}
+## Looking for a Full-Stack Data Scientist: [Resume](/cv/VaibhavGuptaCV.pdf){:target="\_blank"}
