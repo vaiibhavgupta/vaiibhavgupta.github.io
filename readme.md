@@ -3,25 +3,25 @@
 ## About Me
 Introduction Goes here.
 
-<hr>
+<br><hr>
 
 ## Projects
 Project List goes here.
 
-<hr>
+<br><hr>
 
 ## BlogPosts
 BlogPosts List goes here.
 
-<hr>
+<br><hr>
 
 ## Certifications
 Certification List goes here.
 
-<hr>
+<br><hr>
 
 ### Connect: [LinkedIn](https://www.linkedin.com/in/vaiibhavgupta/){:target="\_blank"} | [Email](mailto:vaiibhavgupta.1apr@gmail.com){:target="\_blank"}
 ### Collaborate: [GitHub](https://github.com/vaiibhavgupta/){:target="\_blank"} | [Kaggle](https://www.kaggle.com/vaiibhavgupta/){:target="\_blank"} | [Medium](https://medium.com/@vaiibhavgupta){:target="\_blank"}
 ### Looking for a Full-Stack Data Scientist: [Resume](/cv/VaibhavGuptaCV.pdf){:target="\_blank"}
 
-<hr>
+<br><hr>
