@@ -1,4 +1,49 @@
 ## Welcome to GitHub Pages
 
 
-## Reach Out at: [LinkedIn](https://www.linkedin.com/in/vaiibhavgupta/), [Email](mailto:vaiibhavgupta.1apr@gmail.com), [GitHub](https://github.com/vaiibhavgupta/), [Kaggle](https://www.kaggle.com/vaiibhavgupta/), [Medium](https://medium.com/@vaiibhavgupta)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Connect or Collaborate: [LinkedIn](https://www.linkedin.com/in/vaiibhavgupta/), [Email](mailto:vaiibhavgupta.1apr@gmail.com), [GitHub](https://github.com/vaiibhavgupta/), [Kaggle](https://www.kaggle.com/vaiibhavgupta/), [Medium](https://medium.com/@vaiibhavgupta)
