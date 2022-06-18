@@ -27,7 +27,7 @@ BlogPosts List goes here.
 
 ## Certifications
 
-[![](/icons/udacity_data_scientist_nanodegree_icon.jpeg)](certificates/Data Scientist Nanodegree.pdf){:target="\_blank"}  |  [![](/icons/coursera_deep_learning_icon.png)](certificates/DeepLearning.pdf){:target="\_blank"}  |  [![](/icons/coursera_machine_learning_icon.jpeg)](certificates/MachineLearning.pdf){:target="\_blank"}
+[![](/icons/udacity_data_scientist_nanodegree_icon.jpeg)](certificates/DataScientistNanodegree.pdf){:target="\_blank"}  |  [![](/icons/coursera_deep_learning_icon.png)](certificates/DeepLearning.pdf){:target="\_blank"}  |  [![](/icons/coursera_machine_learning_icon.jpeg)](certificates/MachineLearning.pdf){:target="\_blank"}
 
 <br>
 <hr>
