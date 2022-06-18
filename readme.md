@@ -3,7 +3,7 @@
 ## About Me
 Introduction Goes here.
 
-#
+<hr>
 
 ## Projects
 Project List goes here.
