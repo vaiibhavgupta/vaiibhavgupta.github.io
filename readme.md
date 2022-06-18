@@ -28,10 +28,9 @@ BlogPosts List goes here.
 ## Certifications
 Certification List goes here.
 
-[![](/icons/udacity_data_scientist_nanodegree_icon.jpeg)](https://www.linkedin.com/in/vaiibhavgupta/)  |  [![](/icons/coursera_deep_learning_icon.png)](https://www.linkedin.com/in/vaiibhavgupta/)  |  [![](/icons/coursera_machine_learning_icon.jpeg)](https://www.linkedin.com/in/vaiibhavgupta/)
+[![](/icons/udacity_data_scientist_nanodegree_icon.jpeg)](https://www.linkedin.com/in/vaiibhavgupta/){:target="\_blank"}  |  [![](/icons/coursera_deep_learning_icon.png)](https://www.linkedin.com/in/vaiibhavgupta/){:target="\_blank"}  |  [![](/icons/coursera_machine_learning_icon.jpeg)](https://www.linkedin.com/in/vaiibhavgupta/){:target="\_blank"}
 :-------------------------:|:-------------------------:|:-------------------------:
-Course Name 1  |  Course Name 2  |  Course Name 3
-Decription 1  |  Description 2  |  Description 3
+Udacity Data Scientist Nanodegree  |  DeepLearning.ai Specialization  |  Stanford University Machine Learning (Coursera)
 
 <br>
 <hr>
