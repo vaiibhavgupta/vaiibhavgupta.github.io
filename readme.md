@@ -30,7 +30,7 @@ BlogPosts List goes here.
 [![](/icons/thapar_university_icon.png)](/certificates/ThaparDegree.png){:target="\_blank"}  |  [![](/icons/udacity_icon.png)](/certificates/DataScientistNanodegree.pdf){:target="\_blank"}
 
 <br>
-[View Other Courses and Certificates here](/certificate.md)
+[View Other Courses and Certificates](/certificate.md)
 <hr>
 <br>
 
