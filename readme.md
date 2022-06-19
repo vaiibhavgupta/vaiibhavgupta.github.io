@@ -30,6 +30,7 @@ BlogPosts List goes here.
 [![](/icons/thapar_university_icon.png)](certificates/ThaparDegree.png){:target="\_blank"}  |  [![](/icons/udacity_icon.png)](certificates/DataScientistNanodegree.pdf){:target="\_blank"}
 
 <br>
+<p align='right' href='/cv/VaibhavGuptaCV.pdf'> View Other Courses and Certificates here </h1>
 <hr>
 <br>
 
