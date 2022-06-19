@@ -27,7 +27,7 @@ BlogPosts List goes here.
 
 ## Education
 
-[![](/icons/thapar_icon.png)](certificates/DataScientistNanodegree.pdf){:target="\_blank"}  |  [![](/icons/udacity_icon.jpg)](certificates/DataScientistNanodegree.pdf){:target="\_blank"}
+[![](/icons/thapar_icon.png)](certificates/ThaparDegree.HEIC){:target="\_blank"}  |  [![](/icons/udacity_icon.jpg)](certificates/DataScientistNanodegree.pdf){:target="\_blank"}
 
 <br>
 <hr>
