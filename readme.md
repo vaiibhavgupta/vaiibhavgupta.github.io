@@ -30,7 +30,7 @@ BlogPosts List goes here.
 [![](/icons/thapar_university_icon.png)](/certificates/ThaparDegree.png){:target="\_blank"}  |  [![](/icons/udacity_icon.png)](/certificates/DataScientistNanodegree.pdf){:target="\_blank"}
 
 <br>
-<p align='right'>View Other Courses and Certificates</p> [here](/certificates.md)
+To View Open Source Courses and Certificates and Books I have read and reading, click [here](/certificates.md)
 <hr>
 <br>
 
