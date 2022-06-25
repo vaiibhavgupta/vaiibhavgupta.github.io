@@ -1,5 +1,6 @@
 <h1 align='center'> Welcome to my Portfolio Website!</h1>
 
+<br>
 <hr>
 <br>
 
@@ -13,6 +14,7 @@ When I am not working, I am intensifying my knowledge of Mathematics and ML and 
 
 Always Grilling and Grinning!
 
+<br>
 <hr>
 <br>
 
@@ -20,6 +22,7 @@ Always Grilling and Grinning!
 
 Project List goes here.
 
+<br>
 <hr>
 <br>
 
@@ -27,6 +30,7 @@ Project List goes here.
 
 BlogPosts List goes here.
 
+<br>
 <hr>
 <br>
 
@@ -36,6 +40,7 @@ BlogPosts List goes here.
 
 View Online Courses and Certificates that I have earned and Books I have read and reading [here](certificate.md).
 
+<br>
 <hr>
 <br>
 
@@ -43,6 +48,7 @@ View Online Courses and Certificates that I have earned and Books I have read an
 ### Collaborate: [GitHub](https://github.com/vaiibhavgupta/){:target="\_blank"} | [Kaggle](https://www.kaggle.com/vaiibhavgupta/){:target="\_blank"} | [Medium](https://medium.com/@vaiibhavgupta){:target="\_blank"}
 ### Looking for a Full-Stack Data Scientist: [Resume](/cv/VaibhavGuptaCV.pdf){:target="\_blank"}
 
+<br>
 <hr>
 <br>
 <h2 align='center'> Thank You for visiting. Have a Nice Day!</h2>
