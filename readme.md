@@ -15,11 +15,13 @@ Always Grilling and Grinning!
 <hr>
 
 ## Projects
+
 Project List goes here.
 
 <hr>
 
 ## BlogPosts
+
 BlogPosts List goes here.
 
 <hr>
@@ -29,6 +31,7 @@ BlogPosts List goes here.
 [![](/icons/thapar_university_icon.png)](/certificates/ThaparDegree.png){:target="\_blank"}  |  [![](/icons/udacity_icon.png)](/certificates/DataScientistNanodegree.pdf){:target="\_blank"}
 
 View Online Courses and Certificates that I have earned and Books I have read and reading [here](certificate.md).
+
 <hr>
 
 ### Connect: [LinkedIn](https://www.linkedin.com/in/vaiibhavgupta/){:target="\_blank"} | [Email](mailto:vaiibhavgupta.1apr@gmail.com){:target="\_blank"}
@@ -36,5 +39,5 @@ View Online Courses and Certificates that I have earned and Books I have read an
 ### Looking for a Full-Stack Data Scientist: [Resume](/cv/VaibhavGuptaCV.pdf){:target="\_blank"}
 
 <hr>
-
+<br>
 <h2 align='center'> Thank You for visiting. Have a Nice Day!</h2>
