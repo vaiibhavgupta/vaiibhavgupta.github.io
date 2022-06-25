@@ -1,6 +1,7 @@
 <h1 align='center'> Welcome to my Portfolio Website!</h1>
 
 <hr>
+<br>
 
 ## About Me
 
@@ -13,18 +14,21 @@ When I am not working, I am intensifying my knowledge of Mathematics and ML and 
 Always Grilling and Grinning!
 
 <hr>
+<br>
 
 ## Projects
 
 Project List goes here.
 
 <hr>
+<br>
 
 ## BlogPosts
 
 BlogPosts List goes here.
 
 <hr>
+<br>
 
 ## Education
 
@@ -33,6 +37,7 @@ BlogPosts List goes here.
 View Online Courses and Certificates that I have earned and Books I have read and reading [here](certificate.md).
 
 <hr>
+<br>
 
 ### Connect: [LinkedIn](https://www.linkedin.com/in/vaiibhavgupta/){:target="\_blank"} | [Email](mailto:vaiibhavgupta.1apr@gmail.com){:target="\_blank"}
 ### Collaborate: [GitHub](https://github.com/vaiibhavgupta/){:target="\_blank"} | [Kaggle](https://www.kaggle.com/vaiibhavgupta/){:target="\_blank"} | [Medium](https://medium.com/@vaiibhavgupta){:target="\_blank"}
