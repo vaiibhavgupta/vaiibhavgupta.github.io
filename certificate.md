@@ -4,6 +4,8 @@
 ### 2. [Stanford University Machine Learning Course on Coursera](certificates/MachineLearning.pdf){:target="\_blank"}
 
 <br>
+<hr>
+<br>
 
 <h1 align='center'>Books Read</h1>
 
