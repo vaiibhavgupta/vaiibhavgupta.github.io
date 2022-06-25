@@ -5,7 +5,14 @@
 <br>
 
 ## About Me
-Introduction Goes here.
+
+I am an insightful individual solving business problems with Profitable data-driven Decisions. I am working as a Data Scientist at Deloitte Consulting on developing and streamlining end-to-end Natural Language Processing pipeline for the Audit Practice.
+
+My specialties include offering my Best of Tech Skills in the development of the Business - Python, Natural Language Processing, Supervised Machine Learning, and SQL - and the Intellectual Curiosity which helps me communicate with the Data to derive meaningful insights.
+
+When I am not Working, I am intensifying my knowledge of Mathematics and ML and NLP Algorithms, taking part in Open-Source Data Science competitions, improving my Business Intelligence skills, and reading novels.
+
+Always Grilling and Grinning.
 
 <br>
 <hr>
