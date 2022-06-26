@@ -20,17 +20,17 @@ Always Grilling and Grinning!
 
 ## Projects
 
-### Customer Segmentation Tool
+### 1. Customer Segmentation Tool
   - The objective of the project was to analyze the general demographics data for Arvato Financials and 
     - Use Unsupervised Learning techniques to perform customer segmentation and identify parts of the general population that best correlates to these segments.
     - Use Supervised Learning techniques to predict individuals who can consititute the potential future customer base of the company.
   - [Project Repository](https://github.com/vaiibhavgupta/udacity_data_scientist_nanodegree/tree/main/project_arvato_capstone)
 
-### Article Recommender Engine
+### 2. Article Recommender Engine
   - The objective of the project was to make article recommendations for users in IBM Watson Studio data platform based on the history of user-article interactions.
   - [Project Repository](https://github.com/vaiibhavgupta/udacity_data_scientist_nanodegree/tree/main/project_recommendations_with_ibm)
 
-### Disaster Response Pipeline
+### 3. Disaster Response Pipeline
   - The objective of the project was to classify live messages sent out during natural calamity (and collected by Figure 8) into 36 pre-defined categories that helps in sorting and sending out these messages to appropriate relief teams and agencies.
   - [Project Repository](https://github.com/vaiibhavgupta/udacity_data_scientist_nanodegree/tree/main/project_disaster_reponse_pipeline)
 
