@@ -21,14 +21,17 @@ Always Grilling and Grinning!
 ## Projects
 
 Project List goes here.
-
+1. Article Recommendation with IBM.
 <br>
 <hr>
 <br>
 
 ## BlogPosts
 
-BlogPosts List goes here.
+1. [Customer Segmentation Report for Arvato Financial Services (4 min read)](https://medium.com/@vaiibhavgupta/customer-segmentation-report-for-arvato-financial-services-a-udacity-nanodegree-project-8972c01dd748)
+2. [Exploratory Data Analysis on AirBnB's Boston Dataset (5 min read)](https://medium.com/@vaiibhavgupta/looking-to-invest-in-airbnb-real-estate-in-boston-give-this-article-and-data-science-a-chance-to-1108202fc49d)
+
+Click [here](https://medium.com/@vaiibhavgupta) to navigate to my Medium profile to read more blogs that I have published.
 
 <br>
 <hr>
