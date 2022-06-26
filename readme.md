@@ -21,7 +21,10 @@ Always Grilling and Grinning!
 ## Projects
 
 1. Customer Segmentation Tool
-  - Details here
+  - The objective of the project was to analyze the general demographics data for a mail-order sales company in Germany and 
+    - Use Unsupervised Learning techniques to perform customer segmentation and identify parts of the general population that best correlates to these segments.
+    - Use Supervised Learning techniques to predict individuals who can consititute the potential future customer base of the company.
+  - [Project Repository](https://github.com/vaiibhavgupta/udacity_data_scientist_nanodegree/tree/main/project_arvato_capstone)
 
 2. Article Recommender Engine
   - Details here
