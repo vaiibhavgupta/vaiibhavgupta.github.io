@@ -24,17 +24,17 @@ Always Grilling and Grinning!
   - The objective of the project was to analyze the general demographics data for Arvato Financials and 
     - Use Unsupervised Learning techniques to perform customer segmentation and identify parts of the general population that best correlates to these segments.
     - Use Supervised Learning techniques to predict individuals who can consititute the potential future customer base of the company.
-  - [Project Repository](https://github.com/vaiibhavgupta/udacity_data_scientist_nanodegree/tree/main/project_arvato_capstone)
+  - [Project Repository](https://github.com/vaiibhavgupta/udacity_data_scientist_nanodegree/tree/main/project_arvato_capstone){:target="\_blank"}
 
 ### 2. Article Recommender Engine
   - The objective of the project was to make article recommendations for users in IBM Watson Studio data platform based on the history of user-article interactions.
-  - [Project Repository](https://github.com/vaiibhavgupta/udacity_data_scientist_nanodegree/tree/main/project_recommendations_with_ibm)
+  - [Project Repository](https://github.com/vaiibhavgupta/udacity_data_scientist_nanodegree/tree/main/project_recommendations_with_ibm){:target="\_blank"}
 
 ### 3. Disaster Response Pipeline
   - The objective of the project was to classify live messages sent out during natural calamity (and collected by Figure 8) into 36 pre-defined categories that helps in sorting and sending out these messages to appropriate relief teams and agencies.
-  - [Project Repository](https://github.com/vaiibhavgupta/udacity_data_scientist_nanodegree/tree/main/project_disaster_reponse_pipeline)
+  - [Project Repository](https://github.com/vaiibhavgupta/udacity_data_scientist_nanodegree/tree/main/project_disaster_reponse_pipeline){:target="\_blank"}
 
-I am currently working on hosting these projects on the web. In the meantime, visit my [GitHub](https://github.com/vaiibhavgupta/) profile to view my complete portfolio of projects.
+I am currently working on hosting these projects on the web. In the meantime, visit my [GitHub](https://github.com/vaiibhavgupta/){:target="\_blank"} profile to view my complete portfolio of projects.
 
 <br>
 <hr>
@@ -42,10 +42,10 @@ I am currently working on hosting these projects on the web. In the meantime, vi
 
 ## BlogPosts
 
-1. Customer Segmentation Report for Arvato Financial Services [(4 min read)](https://medium.com/@vaiibhavgupta/customer-segmentation-report-for-arvato-financial-services-a-udacity-nanodegree-project-8972c01dd748)
-2. Exploratory Data Analysis on AirBnB's Boston Dataset [(5 min read)](https://medium.com/@vaiibhavgupta/looking-to-invest-in-airbnb-real-estate-in-boston-give-this-article-and-data-science-a-chance-to-1108202fc49d)
+1. Customer Segmentation Report for Arvato Financial Services [(4 min read)](https://medium.com/@vaiibhavgupta/customer-segmentation-report-for-arvato-financial-services-a-udacity-nanodegree-project-8972c01dd748){:target="\_blank"}
+2. Exploratory Data Analysis on AirBnB's Boston Dataset [(5 min read)](https://medium.com/@vaiibhavgupta/looking-to-invest-in-airbnb-real-estate-in-boston-give-this-article-and-data-science-a-chance-to-1108202fc49d){:target="\_blank"}
 
-Click [here](https://medium.com/@vaiibhavgupta) to navigate to my Medium profile to read more blogs that I have published.
+Click [here](https://medium.com/@vaiibhavgupta){:target="\_blank"} to navigate to my Medium profile to read more blogs that I have published.
 
 <br>
 <hr>
