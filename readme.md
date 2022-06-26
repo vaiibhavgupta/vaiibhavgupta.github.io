@@ -49,6 +49,3 @@ View Online Courses and Certificates that I have earned and Books I have read an
 <!-- ### Looking for a Full-Stack Data Scientist: [Resume](/cv/VaibhavGuptaCV.pdf){:target="\_blank"} -->
 
 <br>
-<hr>
-<br>
-<h2 align='center'> Thank You for visiting. Have a Nice Day!</h2>
