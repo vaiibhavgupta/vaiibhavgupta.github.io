@@ -17,6 +17,7 @@ darkmode: false
 github_username:  vaiibhavgupta
 linkedin_username: vaiibhavgupta
 googlescholar_username: cH_BsHkAAAAJ
+medium_username: vaiibhavgupta
 # twitter_username: facespics
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -31,9 +32,6 @@ googlescholar_username: cH_BsHkAAAAJ
 
 # Additional icon links
 additional_links:
-- title: google_scholar
-  icon: fab fa-google-scholar
-  url: https://scholar.google.com/citations?user=cH_BsHkAAAAJ&hl=en
 - title: medium
   icon: fab fa-medium
   url: https://medium.com/@vaiibhavgupta
