@@ -33,7 +33,7 @@ linkedin_username: vaiibhavgupta
 additional_links:
 - title: google_scholar
   # icon: images/google_scholar_icon.png
-  icon: fab fa-google-scholar
+  icon: fab google-scholar
   url: https://scholar.google.com/citations?user=cH_BsHkAAAAJ&hl=en
 - title: medium
   icon: fab fa-medium
