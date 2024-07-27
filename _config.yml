@@ -91,9 +91,21 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | 
-          line 1
+          GPA: 3.89
 
-          line 2
+          Relevant Coursework:
+          - Probability and Statistical Inference
+          - Time Series Analysis
+          - Deep Learning
+          - Natural Language Processing
+          - Databases
+          - Advanced Machine Learning
+          - Reinforcement Learning
+          - Big Data Scaling
+          - Social Network Analysis
+          - Generative AI
+          - Data Science Algorithms
+
       - layout: left
         title: Thapar Institute of Engineering and Technology
         caption: 2016 - 2020
@@ -101,9 +113,19 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | 
-          line 1
+          GPA: 3.52
+          
+          Relevant Coursework:
+          - Computer Programming
+          - Operating Systems
+          - Data Structures and Algorithms
+          - Database Management Systems
+          - Computer Vision
+          - Machine Learning
+          - Numerical Analysis
+          - Optimization Techniques
+          - Graph Theory and Applications
 
-          line 2
 
 # Footer
 footer_show_references: false
