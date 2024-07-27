@@ -32,8 +32,7 @@ linkedin_username: vaiibhavgupta
 # Additional icon links
 additional_links:
 - title: google_scholar
-  icon: images/google_scholar_icon.png
-  # icon: fa-brands fa-google-scholar
+  icon: fa-brands fa-google-scholar
   url: https://scholar.google.com/citations?user=cH_BsHkAAAAJ&hl=en
 - title: medium
   icon: fab fa-medium
