@@ -88,8 +88,6 @@ content:
         title: Vanderbilt University
         caption: 2023 - 2025
         sub_title: M.S. Data Science
-        # quote: >
-        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | 
           GPA: 3.89
 
@@ -106,12 +104,13 @@ content:
           - Generative AI
           - Data Science Algorithms
 
+        quote: >
+          This is a 16-course 48-credit hours master's program.
+      
       - layout: left
         title: Thapar Institute of Engineering and Technology
         caption: 2016 - 2020
         sub_title: B.E. Electronics and Computer Engineering
-        # quote: >
-        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | 
           GPA: 3.52
           
@@ -131,35 +130,39 @@ content:
     content:
       - layout: left
         title: Institute for Software Integrated Systems at Vanderbilt University
-        # caption: May 2024 - 2025
+        caption: May 2024 - July 2024
         sub_title: Research Intern
         description: | 
-        line 1
-        line 2
+          line 1
+          
+          line 2
 
       - layout: left
         title: AllianceBernstein
-        # caption: May 2024 - 2025
+        caption: January 2024 - April 2024
         sub_title: Student Researcher
         description: | 
-        line 1
-        line 2
+          line 1
+          
+          line 2
 
       - layout: left
         title: Nissan Motor Corporation
-        # caption: May 2024 - 2025
+        caption: January 2024 - April 2024
         sub_title: Student Researcher
         description: | 
-        line 1
-        line 2
+          line 1
+          
+          line 2
 
       - layout: left
         title: Language and Educational Analytics Research Lab at Vanderbilt University
-        # caption: May 2024 - 2025
+        caption: June 2023 - April 2024
         sub_title: Research Assistant
         description: | 
-        line 1
-        line 2
+          line 1
+          
+          line 2
 
   - title: Industry Experience
     layout: list
@@ -169,29 +172,36 @@ content:
         caption: August 2020 - July 2023
         sub_title: Data Scientist
         description: | 
-        • Architected and implemented a named-entity-recognition-based recommender engine with innovative and novel algorithms for acronym expansion, co-reference resolution, and relation extraction in Python using spaCy, PyTorch, and BERT models with processing time of under a second for 1000 tokens.
-          o The finetuned named-entity-recognition models achieved a 95% F1-Score for six audit-related entities.
-          o The co-reference resolution algorithm inferred 10x faster and was 90% more accurate than AllenNLP’s algorithm.
-        • Designed and engineered an application in Python using Dash to orchestrate the development of the recommender system, train models, showcase data and models’ metrics, and provide a platform to prepare training data for fine-tuning language models.
-        • Developed an NLP-based advanced clustering algorithm using Python, BERTs, spaCy, and HDBScan for automatic document review to significantly reduce manual efforts of auditors by over 70% and speed-up the document collection process by 75%.
+          - Architected and implemented a named-entity-recognition-based recommender engine with innovative and novel algorithms for acronym expansion, co-reference resolution, and relation extraction in Python using spaCy, PyTorch, and BERT models with processing time of under a second for 1000 tokens.
+
+            - The finetuned named-entity-recognition models achieved a 95% F1-Score for six audit-related entities.
+
+            - The co-reference resolution algorithm inferred 10x faster and was 90% more accurate than AllenNLP’s algorithm.
+
+          - Designed and engineered an application in Python using Dash to orchestrate the development of the recommender system, train models, showcase data and models’ metrics, and provide a platform to prepare training data for fine-tuning language models.
+
+          - Developed an NLP-based advanced clustering algorithm using Python, BERTs, spaCy, and HDBScan for automatic document review to significantly reduce manual efforts of auditors by over 70% and speed-up the document collection process by 75%.
+
+        quote: >
+          Earned highest accolade at Deloitte, Outstanding Performance Award, in June 2022.
 
       - layout: left
         title: Senvion India
         caption: January 2020 - June 2020
         sub_title: Data Engineer Intern
         description: | 
-        • Crafted an end-to-end automated reporting pipeline using Cassandra, Python, and Apache Airflow to generate periodic performance reports to facilitate effective asset management. The pipeline processed data from the database and created visualizations, and generated Word documents, reducing report generation time by 70%.
+          - Crafted an end-to-end automated reporting pipeline using Cassandra, Python, and Apache Airflow to generate periodic performance reports to facilitate effective asset management. The pipeline processed data from the database and created visualizations, and generated Word documents, reducing report generation time by 70%.
 
-        • Designed and established a Python-based robust pipeline to oversee the Extract, Transform, Load (ETL) process, incorporating quality assurance protocols to guarantee data integrity and reliability.
+          - Designed and established a Python-based robust pipeline to oversee the Extract, Transform, Load (ETL) process, incorporating quality assurance protocols to guarantee data integrity and reliability.
 
-        • Developed automated tests using PyTest to guarantee data quality and consistency, reducing data errors by 20%.
+          - Developed automated tests using PyTest to guarantee data quality and consistency, reducing data errors by 20%.
 
       - layout: left
         title: JioVio Healthcare
         caption: June 2019 - July 2019
         sub_title: Computer Vision Engineer Intern
         description: | 
-        • Developed a JavaScript application integrated with AWS Rekognition and AWS S3 to identify faces in over 10K images and 500 hours of video streaming from CCTV cameras.
+          - Developed a JavaScript application integrated with AWS Rekognition and AWS S3 to identify faces in over 10K images and 500 hours of video streaming from CCTV cameras.
 
 
 # Footer
