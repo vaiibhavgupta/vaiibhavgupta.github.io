@@ -28,7 +28,7 @@ about_profile_image: images/photo.jpg
 about_content: |
   I am second-year master's in data science student at Vanderbilt University. I have over three years of industry experience in the field of data science. My research interests revolves around - <mark>Explainable AI</mark>, <mark>Computer Vision</mark>, <mark>Natural Language Processing</mark>, <mark>Human-Computer Interaction</mark>.
 
-
+  <br><br><br>
 
   Click <a href="https://drive.google.com/file/d/1SHDeyjyrrkr6YpUUm5SuJHPxb1c0b9Om/view?usp=sharing">here</a> to view my resume.
 
@@ -57,7 +57,7 @@ content:
           - Social Network Analysis
           - Generative AI
           - Data Science Algorithms
-        border: weak
+        # border: weak
       - layout: left
         title: Thapar University
         caption: 2016 - 2020
@@ -90,7 +90,7 @@ content:
             - Explored the employability of large language models in prevention of cyber-physical attacks.
             - Designed an optimized database to improve data management and querying and enable a shift from MongoDB to SQL.
             - Developed a docker-containerized application to host cyber-security competitions using TypeScript, React, Express, and SQL.
-        border: weak
+        # border: weak
       - layout: top-middle
         title: AllianceBernstein
         sub_title: January 2024 - April 2024
@@ -99,7 +99,7 @@ content:
             - Led a team of 4 to develop a sentiment analysis pipeline to process and analyze over 170K finance-related articles, predicting stock price movements based on article content to enhance decision-making by generating investment signals.
             - Finetuned multi-task BERT models to predict financial events discussed in an article and determine causality and sentiment on stock price in subsequent trading sessions, achieving an accuracy of about 85%.
             - Formulated a strategy for data labeling through OpenAI API, ensuring high-quality ground truth training data, which improved prediction accuracy of BERT models by 20% and generated a portfolio with 8% annual return on a back tested dataset.
-        border: weak
+        # border: weak
       - layout: top-middle
         title: Nissan Motor Corporation
         sub_title: January 2024 - April 2024
@@ -108,7 +108,7 @@ content:
             - Conceptualized a comprehensive project workflow for the development of a chatbot, while leading and managing a team of 6, to transform and analyze Likert-scaled survey data from over 60K respondents to provide valuable insights, thereby improving data accessibility and hypothesis testing for Nissan's customer research group.
             - Implemented t-SNE and XGBoost for customer segmentation and feature selection to generate customer personas from surveys.
             - Spearheaded the engineering of a retrieval augmented generation-based chatbot from customer personas utilizing ChromaDB, Python, and generative AI models to enhance conversational dynamics and insights extraction.
-        border: weak
+        # border: weak
       - layout: top-middle
         title: Language and Educational Analytics Research Lab at Vanderbilt University
         sub_title: June 2023 - April 2024
@@ -136,7 +136,7 @@ content:
               - The co-reference resolution algorithm inferred 10x faster and was 90% more accurate than AllenNLP’s algorithm.
             - Designed and engineered an application in Python using Dash to orchestrate the development of the recommender system, train models, showcase data and models’ metrics, and provide a platform to prepare training data for fine-tuning language models.
             - Developed an NLP-based advanced clustering algorithm using Python, BERTs, spaCy, and HDBScan for automatic document review to significantly reduce manual efforts of auditors by over 70% and speed-up the document collection process by 75%.
-        border: weak
+        # border: weak
       - layout: top-middle
         title: Senvion India
         sub_title: January 2020 - June 2020
@@ -145,7 +145,7 @@ content:
             - Crafted an end-to-end automated reporting pipeline using Cassandra, Python, and Apache Airflow to generate periodic performance reports to facilitate effective asset management. The pipeline processed data from the database and created visualizations, and generated Word documents, reducing report generation time by 70%.
             - Designed and established a Python-based robust pipeline to oversee the Extract, Transform, Load (ETL) process, incorporating quality assurance protocols to guarantee data integrity and reliability.
             - Developed automated tests using PyTest to guarantee data quality and consistency, reducing data errors by 20%.
-        border: weak
+        # border: weak
       - layout: top-middle
         title: JioVio Healthcare
         sub_title: June 2019 - July 2019
