@@ -24,11 +24,13 @@ additional_links:
   url: https://medium.com/@vaiibhavgupta
 
 # About Section
-about_profile_image: images/profile.jpg
+about_profile_image: images/photo.jpg
 about_content: |
   I am second-year master's in data science student at Vanderbilt University. I have over three years of industry experience in the field of data science. My research interests revolves around - <mark>Explainable AI</mark>, <mark>Computer Vision</mark>, <mark>Natural Language Processing</mark>, <mark>Human-Computer Interaction</mark>.
 
-  Click <a href="https://drive.google.com/file/d/1SHDeyjyrrkr6YpUUm5SuJHPxb1c0b9Om/view?usp=sharing">here</a> to download my resume.
+
+
+  Click <a href="https://drive.google.com/file/d/1SHDeyjyrrkr6YpUUm5SuJHPxb1c0b9Om/view?usp=sharing">here</a> to view my resume.
 
 content:
   # =================================================================================================EDUCATION=================================================================================================
@@ -57,7 +59,7 @@ content:
           - Data Science Algorithms
       
       - layout: left
-        title: Thapar Institute of Engineering and Technology
+        title: Thapar University
         caption: 2016 - 2020
         quote: >
           Bachelor of Engineering - Electronics and Computer Engineering
@@ -81,8 +83,8 @@ content:
     content:
       - layout: top-middle
         title: Institute for Software Integrated Systems at Vanderbilt University
-        caption: May 2024 - August 2024
-        sub_title: Research Intern
+        sub_title: May 2024 - August 2024
+        caption: Research Intern
         description: |
             - Employed regular expressions to prepare training data to identify personal identifiable information. Additionally, implemented supervised learning models like Random Forest, spaCy, and BERT to train an automated pipeline to detect and mask personal identifiable information in new incoming network data, achieving accuracy of 97%, making it readily available for training cyber-security models.
             - Explored the employability of large language models in prevention of cyber-physical attacks.
@@ -91,8 +93,8 @@ content:
         border: weak
       - layout: top-middle
         title: AllianceBernstein
-        caption: January 2024 - April 2024
-        sub_title: Student Researcher
+        sub_title: January 2024 - April 2024
+        caption: Student Researcher
         description: | 
             - Led a team of 4 to develop a sentiment analysis pipeline to process and analyze over 170K finance-related articles, predicting stock price movements based on article content to enhance decision-making by generating investment signals.
             - Finetuned multi-task BERT models to predict financial events discussed in an article and determine causality and sentiment on stock price in subsequent trading sessions, achieving an accuracy of about 85%.
@@ -100,8 +102,8 @@ content:
         border: weak
       - layout: top-middle
         title: Nissan Motor Corporation
-        caption: January 2024 - April 2024
-        sub_title: Student Researcher
+        sub_title: January 2024 - April 2024
+        caption: Student Researcher
         description: | 
             - Conceptualized a comprehensive project workflow for the development of a chatbot, while leading and managing a team of 6, to transform and analyze Likert-scaled survey data from over 60K respondents to provide valuable insights, thereby improving data accessibility and hypothesis testing for Nissan's customer research group.
             - Implemented t-SNE and XGBoost for customer segmentation and feature selection to generate customer personas from surveys.
@@ -109,8 +111,8 @@ content:
         border: weak
       - layout: top-middle
         title: Language and Educational Analytics Research Lab at Vanderbilt University
-        caption: June 2023 - April 2024
-        sub_title: Research Assistant
+        sub_title: June 2023 - April 2024
+        caption: Research Assistant
         description: | 
             - Designed sophisticated NLP pipeline using Transformer models, PyTorch, Python, and Supabase to automate and enhance the evaluation of student assessments using state-of-the-art technologies with 89% accuracy.
             - Researched and curated a dataset for training the automated scoring system on short answer responses.
@@ -124,8 +126,8 @@ content:
     content:
       - layout: top-middle
         title: Deloitte
-        caption: August 2020 - July 2023
-        sub_title: Data Scientist
+        sub_title: August 2020 - July 2023
+        caption: Data Scientist
         quote: >
             Received Deloitte's highest accolade, Outstanding Performance Award, in June 2022.
         description: | 
@@ -137,8 +139,8 @@ content:
         border: weak
       - layout: top-middle
         title: Senvion India
-        caption: January 2020 - June 2020
-        sub_title: Data Engineer Intern
+        sub_title: January 2020 - June 2020
+        caption: Data Engineer Intern
         description: | 
             - Crafted an end-to-end automated reporting pipeline using Cassandra, Python, and Apache Airflow to generate periodic performance reports to facilitate effective asset management. The pipeline processed data from the database and created visualizations, and generated Word documents, reducing report generation time by 70%.
             - Designed and established a Python-based robust pipeline to oversee the Extract, Transform, Load (ETL) process, incorporating quality assurance protocols to guarantee data integrity and reliability.
@@ -146,8 +148,8 @@ content:
         border: weak
       - layout: top-middle
         title: JioVio Healthcare
-        caption: June 2019 - July 2019
-        sub_title: Computer Vision Engineer Intern
+        sub_title: June 2019 - July 2019
+        caption: Computer Vision Engineer Intern
         description: | 
             - Developed a JavaScript application integrated with AWS Rekognition and AWS S3 to identify faces in over 10K images and 500 hours of video streaming from CCTV cameras.
   
@@ -157,8 +159,8 @@ content:
     content:
       - layout: top-middle
         title: Data Science Institute at Vanderbilt University
-        caption: Head Teaching Assistant
         sub_title: NoSQL for Data Science Applications, fall 2024
+        caption: Head Teaching Assistant
         description: |
           Head TA
 
@@ -173,7 +175,7 @@ content:
           - Crossley, S. A., Choi, J. S., Morris, W., Holmes, L., Joyner, D. & Gupta, V. Using Intelligent Texts in A Computer Science Classroom: Findings from an iTELL Deployment. Proceedings of the 17th International Conference on Educational Data Mining.
 
 # Footer
-footer_show_references: false
+footer_show_references: true
 references_title: Wesbite adapted from http://github.com/sproogen/modern-resume-theme
 
 # Build settings
