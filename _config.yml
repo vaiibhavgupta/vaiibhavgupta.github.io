@@ -57,7 +57,7 @@ content:
           - Social Network Analysis
           - Generative AI
           - Data Science Algorithms
-      
+        border: weak
       - layout: left
         title: Thapar University
         caption: 2016 - 2020
@@ -176,7 +176,7 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: Wesbite adapted from http://github.com/sproogen/modern-resume-theme
+references_title: Wesbite adapted from https://github.com/sproogen/modern-resume-theme
 
 # Build settings
 remote_theme: sproogen/resume-theme
