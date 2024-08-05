@@ -171,12 +171,12 @@ content:
       - layout: top-middle
         title: In 2024
         description: |
-          - Morris, W., Choi, J., Holmes, L., Gupta, V., Crossley, S. Automatic Question Generation and Constructed Response Scoring in Intelligent Texts. Proceedings of the 17th International Conference on Educational Data Mining.
-          - Crossley, S. A., Choi, J. S., Morris, W., Holmes, L., Joyner, D. & Gupta, V. Using Intelligent Texts in A Computer Science Classroom: Findings from an iTELL Deployment. Proceedings of the 17th International Conference on Educational Data Mining.
+          - Morris, W., Choi, J., Holmes, L., Gupta, V., Crossley, S. Automatic Question Generation and Constructed Response Scoring in Intelligent Texts. In Press. Proceedings of the 17th International Conference on Educational Data Mining.
+          - Crossley, S. A., Choi, J. S., Morris, W., Holmes, L., Joyner, D. & Gupta, V. Using Intelligent Texts in A Computer Science Classroom: Findings from an iTELL Deployment. In Press. Proceedings of the 17th International Conference on Educational Data Mining.
 
 # Footer
 footer_show_references: true
-references_title: Wesbite adapted from https://github.com/sproogen/modern-resume-theme
+references_title: Website adapted from https://github.com/sproogen/modern-resume-theme
 
 # Build settings
 remote_theme: sproogen/resume-theme
