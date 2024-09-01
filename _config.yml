@@ -1,189 +1,189 @@
-# Site
-repository: sproogen/resume-theme
-favicon: images/favicon.ico
+# # Site
+# repository: sproogen/resume-theme
+# favicon: images/favicon.ico
 
-# Content configuration version
-version: 2
+# # Content configuration version
+# version: 2
 
-# Personal info
-name: Vaibhav Gupta
-title: Master's in Data Science Student at Vanderbilt University
+# # Personal info
+# name: Vaibhav Gupta
+# title: Master's in Data Science Student at Vanderbilt University
 
-# Dark Mode (true/false/never)
-darkmode: false
+# # Dark Mode (true/false/never)
+# darkmode: false
 
-# Social links
-linkedin_username: vaiibhavgupta
-googlescholar_username: cH_BsHkAAAAJ
-github_username:  vaiibhavgupta
+# # Social links
+# linkedin_username: vaiibhavgupta
+# googlescholar_username: cH_BsHkAAAAJ
+# github_username:  vaiibhavgupta
 
-# Additional icon links
-additional_links:
-- title: medium
-  icon: fab fa-medium
-  url: https://medium.com/@vaiibhavgupta
+# # Additional icon links
+# additional_links:
+# - title: medium
+#   icon: fab fa-medium
+#   url: https://medium.com/@vaiibhavgupta
 
-# About Section
-about_profile_image: images/photo.jpg
-about_content: |
-  I am second-year master's in data science student at Vanderbilt University. I have over three years of industry experience in the field of data science. My research interests revolves around - <mark>Explainable AI</mark>, <mark>Computer Vision</mark>, <mark>Natural Language Processing</mark>, <mark>Human-Computer Interaction</mark>.
+# # About Section
+# about_profile_image: images/photo.jpg
+# about_content: |
+#   I am second-year master's in data science student at Vanderbilt University. I have over three years of industry experience in the field of data science. My research interests revolves around - <mark>Explainable AI</mark>, <mark>Computer Vision</mark>, <mark>Natural Language Processing</mark>, <mark>Human-Computer Interaction</mark>.
 
-  <br><br><br>
+#   <br><br><br>
 
-  Click <a href="https://drive.google.com/file/d/1SHDeyjyrrkr6YpUUm5SuJHPxb1c0b9Om/view?usp=sharing">here</a> to view my resume.
+#   Click <a href="https://drive.google.com/file/d/1SHDeyjyrrkr6YpUUm5SuJHPxb1c0b9Om/view?usp=sharing">here</a> to view my resume.
 
-content:
-  # =================================================================================================EDUCATION=================================================================================================
-  - title: Education
-    layout: list
-    content:
-      - layout: left
-        title: Vanderbilt University
-        caption: 2023 - 2025
-        quote: >
-          Master of Science - Data Science
-        description: | 
-          GPA: 3.89
+# content:
+#   # =================================================================================================EDUCATION=================================================================================================
+#   - title: Education
+#     layout: list
+#     content:
+#       - layout: left
+#         title: Vanderbilt University
+#         caption: 2023 - 2025
+#         quote: >
+#           Master of Science - Data Science
+#         description: | 
+#           GPA: 3.89
 
-          Relevant Coursework:
-          - Probability and Statistical Inference
-          - Time Series Analysis
-          - Deep Learning
-          - Natural Language Processing
-          - Databases
-          - Advanced Machine Learning
-          - Reinforcement Learning
-          - Big Data Scaling
-          - Social Network Analysis
-          - Generative AI
-          - Data Science Algorithms
-        # border: weak
-      - layout: left
-        title: Thapar University
-        caption: 2016 - 2020
-        quote: >
-          Bachelor of Engineering - Electronics and Computer Engineering
-        description: | 
-          GPA: 3.52
+#           Relevant Coursework:
+#           - Probability and Statistical Inference
+#           - Time Series Analysis
+#           - Deep Learning
+#           - Natural Language Processing
+#           - Databases
+#           - Advanced Machine Learning
+#           - Reinforcement Learning
+#           - Big Data Scaling
+#           - Social Network Analysis
+#           - Generative AI
+#           - Data Science Algorithms
+#         # border: weak
+#       - layout: left
+#         title: Thapar University
+#         caption: 2016 - 2020
+#         quote: >
+#           Bachelor of Engineering - Electronics and Computer Engineering
+#         description: | 
+#           GPA: 3.52
 
-          Relevant Coursework:
-          - Computer Programming
-          - Operating Systems
-          - Data Structures and Algorithms
-          - Database Management Systems
-          - Computer Vision
-          - Machine Learning
-          - Numerical Analysis
-          - Optimization Techniques
-          - Graph Theory and Applications
+#           Relevant Coursework:
+#           - Computer Programming
+#           - Operating Systems
+#           - Data Structures and Algorithms
+#           - Database Management Systems
+#           - Computer Vision
+#           - Machine Learning
+#           - Numerical Analysis
+#           - Optimization Techniques
+#           - Graph Theory and Applications
   
-  # ============================================================================================RESEARCH EXPERIENCE============================================================================================
-  - title: Research Experience
-    layout: list
-    content:
-      - layout: top-middle
-        title: Institute for Software Integrated Systems at Vanderbilt University
-        sub_title: May 2024 - August 2024
-        caption: Research Intern
-        description: |
-            - Employed regular expressions to prepare training data to identify personal identifiable information. Additionally, implemented supervised learning models like Random Forest, spaCy, and BERT to train an automated pipeline to detect and mask personal identifiable information in new incoming network data, achieving accuracy of 97%, making it readily available for training cyber-security models.
-            - Explored the employability of large language models in prevention of cyber-physical attacks.
-            - Designed an optimized database to improve data management and querying and enable a shift from MongoDB to SQL.
-            - Developed a docker-containerized application to host cyber-security competitions using TypeScript, React, Express, and SQL.
-        # border: weak
-      - layout: top-middle
-        title: AllianceBernstein
-        sub_title: January 2024 - April 2024
-        caption: Student Researcher
-        description: | 
-            - Led a team of 4 to develop a sentiment analysis pipeline to process and analyze over 170K finance-related articles, predicting stock price movements based on article content to enhance decision-making by generating investment signals.
-            - Finetuned multi-task BERT models to predict financial events discussed in an article and determine causality and sentiment on stock price in subsequent trading sessions, achieving an accuracy of about 85%.
-            - Formulated a strategy for data labeling through OpenAI API, ensuring high-quality ground truth training data, which improved prediction accuracy of BERT models by 20% and generated a portfolio with 8% annual return on a back tested dataset.
-        # border: weak
-      - layout: top-middle
-        title: Nissan Motor Corporation
-        sub_title: January 2024 - April 2024
-        caption: Student Researcher
-        description: | 
-            - Conceptualized a comprehensive project workflow for the development of a chatbot, while leading and managing a team of 6, to transform and analyze Likert-scaled survey data from over 60K respondents to provide valuable insights, thereby improving data accessibility and hypothesis testing for Nissan's customer research group.
-            - Implemented t-SNE and XGBoost for customer segmentation and feature selection to generate customer personas from surveys.
-            - Spearheaded the engineering of a retrieval augmented generation-based chatbot from customer personas utilizing ChromaDB, Python, and generative AI models to enhance conversational dynamics and insights extraction.
-        # border: weak
-      - layout: top-middle
-        title: Language and Educational Analytics Research Lab at Vanderbilt University
-        sub_title: June 2023 - April 2024
-        caption: Research Assistant
-        description: | 
-            - Designed sophisticated NLP pipeline using Transformer models, PyTorch, Python, and Supabase to automate and enhance the evaluation of student assessments using state-of-the-art technologies with 89% accuracy.
-            - Researched and curated a dataset for training the automated scoring system on short answer responses.
-            - Implemented an end-to-end automated data analysis pipeline using Python and Supabase to generate post-deployment reports of productionized iTELL volumes. The pipeline generated documented reports by fetching data from the database, performing statistical tests and generating visualizations and insights.
-            - Designed an interactive react-based chatbot application in TypeScript, enhancing student engagement by providing real-time access to supplementary subject material and text references.
-            - Developed a video analytics tool in TypeScript to analyze user activity on videos embedded in iTELL to identify strong and weak areas of students, leading to a 20% increase in targeted question effectiveness and ensuring comprehensive learning.
+#   # ============================================================================================RESEARCH EXPERIENCE============================================================================================
+#   - title: Research Experience
+#     layout: list
+#     content:
+#       - layout: top-middle
+#         title: Institute for Software Integrated Systems at Vanderbilt University
+#         sub_title: May 2024 - August 2024
+#         caption: Research Intern
+#         description: |
+#             - Employed regular expressions to prepare training data to identify personal identifiable information. Additionally, implemented supervised learning models like Random Forest, spaCy, and BERT to train an automated pipeline to detect and mask personal identifiable information in new incoming network data, achieving accuracy of 97%, making it readily available for training cyber-security models.
+#             - Explored the employability of large language models in prevention of cyber-physical attacks.
+#             - Designed an optimized database to improve data management and querying and enable a shift from MongoDB to SQL.
+#             - Developed a docker-containerized application to host cyber-security competitions using TypeScript, React, Express, and SQL.
+#         # border: weak
+#       - layout: top-middle
+#         title: AllianceBernstein
+#         sub_title: January 2024 - April 2024
+#         caption: Student Researcher
+#         description: | 
+#             - Led a team of 4 to develop a sentiment analysis pipeline to process and analyze over 170K finance-related articles, predicting stock price movements based on article content to enhance decision-making by generating investment signals.
+#             - Finetuned multi-task BERT models to predict financial events discussed in an article and determine causality and sentiment on stock price in subsequent trading sessions, achieving an accuracy of about 85%.
+#             - Formulated a strategy for data labeling through OpenAI API, ensuring high-quality ground truth training data, which improved prediction accuracy of BERT models by 20% and generated a portfolio with 8% annual return on a back tested dataset.
+#         # border: weak
+#       - layout: top-middle
+#         title: Nissan Motor Corporation
+#         sub_title: January 2024 - April 2024
+#         caption: Student Researcher
+#         description: | 
+#             - Conceptualized a comprehensive project workflow for the development of a chatbot, while leading and managing a team of 6, to transform and analyze Likert-scaled survey data from over 60K respondents to provide valuable insights, thereby improving data accessibility and hypothesis testing for Nissan's customer research group.
+#             - Implemented t-SNE and XGBoost for customer segmentation and feature selection to generate customer personas from surveys.
+#             - Spearheaded the engineering of a retrieval augmented generation-based chatbot from customer personas utilizing ChromaDB, Python, and generative AI models to enhance conversational dynamics and insights extraction.
+#         # border: weak
+#       - layout: top-middle
+#         title: Language and Educational Analytics Research Lab at Vanderbilt University
+#         sub_title: June 2023 - April 2024
+#         caption: Research Assistant
+#         description: | 
+#             - Designed sophisticated NLP pipeline using Transformer models, PyTorch, Python, and Supabase to automate and enhance the evaluation of student assessments using state-of-the-art technologies with 89% accuracy.
+#             - Researched and curated a dataset for training the automated scoring system on short answer responses.
+#             - Implemented an end-to-end automated data analysis pipeline using Python and Supabase to generate post-deployment reports of productionized iTELL volumes. The pipeline generated documented reports by fetching data from the database, performing statistical tests and generating visualizations and insights.
+#             - Designed an interactive react-based chatbot application in TypeScript, enhancing student engagement by providing real-time access to supplementary subject material and text references.
+#             - Developed a video analytics tool in TypeScript to analyze user activity on videos embedded in iTELL to identify strong and weak areas of students, leading to a 20% increase in targeted question effectiveness and ensuring comprehensive learning.
 
-  # ============================================================================================INDUSTRY EXPERIENCE============================================================================================
-  - title: Industry Experience
-    layout: list
-    content:
-      - layout: top-middle
-        title: Deloitte
-        sub_title: August 2020 - July 2023
-        caption: Data Scientist
-        quote: >
-            Received Deloitte's highest accolade, Outstanding Performance Award, in June 2022.
-        description: | 
-            - Architected and implemented a named-entity-recognition-based recommender engine with innovative and novel algorithms for acronym expansion, co-reference resolution, and relation extraction in Python using spaCy, PyTorch, and BERT models with processing time of under a second for 1000 tokens.
-              - The finetuned named-entity-recognition models achieved a 95% F1-Score for six audit-related entities.
-              - The co-reference resolution algorithm inferred 10x faster and was 90% more accurate than AllenNLP’s algorithm.
-            - Designed and engineered an application in Python using Dash to orchestrate the development of the recommender system, train models, showcase data and models’ metrics, and provide a platform to prepare training data for fine-tuning language models.
-            - Developed an NLP-based advanced clustering algorithm using Python, BERTs, spaCy, and HDBScan for automatic document review to significantly reduce manual efforts of auditors by over 70% and speed-up the document collection process by 75%.
-        # border: weak
-      - layout: top-middle
-        title: Senvion India
-        sub_title: January 2020 - June 2020
-        caption: Data Engineer Intern
-        description: | 
-            - Crafted an end-to-end automated reporting pipeline using Cassandra, Python, and Apache Airflow to generate periodic performance reports to facilitate effective asset management. The pipeline processed data from the database and created visualizations, and generated Word documents, reducing report generation time by 70%.
-            - Designed and established a Python-based robust pipeline to oversee the Extract, Transform, Load (ETL) process, incorporating quality assurance protocols to guarantee data integrity and reliability.
-            - Developed automated tests using PyTest to guarantee data quality and consistency, reducing data errors by 20%.
-        # border: weak
-      - layout: top-middle
-        title: JioVio Healthcare
-        sub_title: June 2019 - July 2019
-        caption: Computer Vision Engineer Intern
-        description: | 
-            - Developed a JavaScript application integrated with AWS Rekognition and AWS S3 to identify faces in over 10K images and 500 hours of video streaming from CCTV cameras.
+#   # ============================================================================================INDUSTRY EXPERIENCE============================================================================================
+#   - title: Industry Experience
+#     layout: list
+#     content:
+#       - layout: top-middle
+#         title: Deloitte
+#         sub_title: August 2020 - July 2023
+#         caption: Data Scientist
+#         quote: >
+#             Received Deloitte's highest accolade, Outstanding Performance Award, in June 2022.
+#         description: | 
+#             - Architected and implemented a named-entity-recognition-based recommender engine with innovative and novel algorithms for acronym expansion, co-reference resolution, and relation extraction in Python using spaCy, PyTorch, and BERT models with processing time of under a second for 1000 tokens.
+#               - The finetuned named-entity-recognition models achieved a 95% F1-Score for six audit-related entities.
+#               - The co-reference resolution algorithm inferred 10x faster and was 90% more accurate than AllenNLP’s algorithm.
+#             - Designed and engineered an application in Python using Dash to orchestrate the development of the recommender system, train models, showcase data and models’ metrics, and provide a platform to prepare training data for fine-tuning language models.
+#             - Developed an NLP-based advanced clustering algorithm using Python, BERTs, spaCy, and HDBScan for automatic document review to significantly reduce manual efforts of auditors by over 70% and speed-up the document collection process by 75%.
+#         # border: weak
+#       - layout: top-middle
+#         title: Senvion India
+#         sub_title: January 2020 - June 2020
+#         caption: Data Engineer Intern
+#         description: | 
+#             - Crafted an end-to-end automated reporting pipeline using Cassandra, Python, and Apache Airflow to generate periodic performance reports to facilitate effective asset management. The pipeline processed data from the database and created visualizations, and generated Word documents, reducing report generation time by 70%.
+#             - Designed and established a Python-based robust pipeline to oversee the Extract, Transform, Load (ETL) process, incorporating quality assurance protocols to guarantee data integrity and reliability.
+#             - Developed automated tests using PyTest to guarantee data quality and consistency, reducing data errors by 20%.
+#         # border: weak
+#       - layout: top-middle
+#         title: JioVio Healthcare
+#         sub_title: June 2019 - July 2019
+#         caption: Computer Vision Engineer Intern
+#         description: | 
+#             - Developed a JavaScript application integrated with AWS Rekognition and AWS S3 to identify faces in over 10K images and 500 hours of video streaming from CCTV cameras.
   
-  # ============================================================================================TEACHING EXPERIENCE============================================================================================
-  - title: Teaching Experience
-    layout: list
-    content:
-      - layout: top-middle
-        title: Data Science Institute at Vanderbilt University
-        sub_title: NoSQL for Data Science Applications, fall 2024
-        caption: Head Teaching Assistant
-        description: |
-          Head TA
+#   # ============================================================================================TEACHING EXPERIENCE============================================================================================
+#   - title: Teaching Experience
+#     layout: list
+#     content:
+#       - layout: top-middle
+#         title: Data Science Institute at Vanderbilt University
+#         sub_title: NoSQL for Data Science Applications, fall 2024
+#         caption: Head Teaching Assistant
+#         description: |
+#           Head TA
 
-  # ================================================================================================PUBLICATIONS===============================================================================================
-  - title: Publications
-    layout: list
-    content:
-      - layout: top-middle
-        title: In 2024
-        description: |
-          - Morris, W., Choi, J., Holmes, L., Gupta, V., Crossley, S. Automatic Question Generation and Constructed Response Scoring in Intelligent Texts. In Press. Proceedings of the 17th International Conference on Educational Data Mining.
-          - Crossley, S. A., Choi, J. S., Morris, W., Holmes, L., Joyner, D. & Gupta, V. Using Intelligent Texts in A Computer Science Classroom: Findings from an iTELL Deployment. In Press. Proceedings of the 17th International Conference on Educational Data Mining.
+#   # ================================================================================================PUBLICATIONS===============================================================================================
+#   - title: Publications
+#     layout: list
+#     content:
+#       - layout: top-middle
+#         title: In 2024
+#         description: |
+#           - Morris, W., Choi, J., Holmes, L., Gupta, V., Crossley, S. Automatic Question Generation and Constructed Response Scoring in Intelligent Texts. In Press. Proceedings of the 17th International Conference on Educational Data Mining.
+#           - Crossley, S. A., Choi, J. S., Morris, W., Holmes, L., Joyner, D. & Gupta, V. Using Intelligent Texts in A Computer Science Classroom: Findings from an iTELL Deployment. In Press. Proceedings of the 17th International Conference on Educational Data Mining.
 
-# Footer
-footer_show_references: true
-references_title: Website adapted from https://github.com/sproogen/modern-resume-theme
+# # Footer
+# footer_show_references: true
+# references_title: Website adapted from https://github.com/sproogen/modern-resume-theme
 
-# Build settings
-remote_theme: sproogen/resume-theme
+# # Build settings
+# remote_theme: sproogen/resume-theme
 
-sass:
-  sass_dir: _sass
-  style: compressed
+# sass:
+#   sass_dir: _sass
+#   style: compressed
 
-plugins:
- - jekyll-seo-tag
+# plugins:
+#  - jekyll-seo-tag
