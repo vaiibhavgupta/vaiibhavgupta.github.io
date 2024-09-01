@@ -178,12 +178,12 @@ name: Vaibhav Gupta
 # footer_show_references: true
 # references_title: Website adapted from https://github.com/sproogen/modern-resume-theme
 
-# # Build settings
-# remote_theme: sproogen/resume-theme
+# Build settings
+remote_theme: sproogen/resume-theme
 
-# sass:
-#   sass_dir: _sass
-#   style: compressed
+sass:
+  sass_dir: _sass
+  style: compressed
 
-# plugins:
-#  - jekyll-seo-tag
+plugins:
+ - jekyll-seo-tag
